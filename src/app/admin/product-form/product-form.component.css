@@ -1,0 +1,32 @@
+* {
+  font-size: 1.1rem;
+}
+
+.form-group {
+  padding: 0.7rem 0;
+}
+
+button {
+  padding: 0.5rem 1.2rem;
+  margin-top: 1rem;
+}
+
+input {
+  padding: 5px;
+}
+
+select {
+  padding: 5px;
+}
+
+.alert.alert-danger {
+  padding: 5px;
+}
+
+.col-md-6 {
+  padding: 1rem;
+}
+
+button {
+  margin: 5px;
+}
